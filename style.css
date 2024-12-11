@@ -1,0 +1,164 @@
+.kisKep{
+    height: 150px;
+}
+
+.InCardH1{
+    font-size: 3vw;
+    background-color: rgba(77,122,141,255);
+    color: white;
+}
+
+.InCardP{
+    font-size: 2vw;
+    color: #28424a;
+}
+
+
+.InCardLi{
+    text-decoration: none;
+    font-size: 1.5vw;
+    color: #28424a;
+}
+
+.kozep{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar-fixed-top-bg-body-tertiary{
+    margin-left: 10px;
+}
+
+.feher{
+    background-color: white;
+    border: 1px rgba(77,122,141,255) solid;
+
+}
+
+.kicsi{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.slide{
+    max-width: 50%;
+}
+
+.d-md-block{
+    background-color: rgba(255, 252, 252, 0.541);
+}
+.hatalmas{
+    max-height: 33px;
+    max-width: 33px;
+}
+
+
+#up_lift{
+    border-radius: 20px;
+    height: auto;
+}
+
+#logo{ 
+	position:fixed; 
+	right:0; 
+	bottom:0; 
+} 
+
+#aboutus{
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 25px;
+}
+
+#contactus{
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 25px;
+}
+
+h2{
+    text-align: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+.logo{
+    height: 30px;
+}
+
+.navbar {
+    font-size: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar .logo {
+    flex: 1;
+}
+
+.navbar .nav-links {
+    display: flex;
+    gap: 1rem;
+}
+
+.navbar a {
+    color: #333;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+
+.navbar a:hover {
+    background-color: #eaeaea;
+    border-radius: 4px;
+}
+
+
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .navbar .nav-links {
+        flex-direction: column;
+        width: 100%;
+    }
+    .navbar a {
+        width: 100%;
+        text-align: left;
+    }
+}
+
+p{
+    padding-left: 10px;
+}
+
+ul{
+    text-decoration: none;
+}
+
+img{
+    height: 425px;
+}
+
+a{
+    text-decoration: none;
+    color: grey;
+    font-size: 125%;
+}
+    
