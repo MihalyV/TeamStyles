@@ -3,20 +3,20 @@
 }
 
 .InCardH1{
-    font-size: 3vw;
+    font-size: 2vw;
     background-color: rgba(77,122,141,255);
     color: white;
 }
 
 .InCardP{
-    font-size: 2vw;
+    font-size: 1vw;
     color: #28424a;
 }
 
 
 .InCardLi{
     text-decoration: none;
-    font-size: 1.5vw;
+    font-size: 1vw;
     color: #28424a;
 }
 
